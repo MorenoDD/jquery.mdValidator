@@ -1,0 +1,11 @@
+{
+  "name": "jquery-mdvalidator",
+  "version": "1.0.1",
+  "description": "A easy jQuery plugin to validate form fields.",
+  "main": "jquery.mdValidator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moreno Di Domenico",
+  "license": "ISC"
+}
