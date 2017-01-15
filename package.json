@@ -2,10 +2,15 @@
   "name": "jquery-mdvalidator",
   "version": "1.0.1",
   "description": "A easy jQuery plugin to validate form fields.",
-  "main": "jquery.mdValidator.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": {
+    "name": "Moreno Di Domenico",
+    "email": "me@morenodd.com",
+    "url": "http://morenodd.com"
   },
-  "author": "Moreno Di Domenico",
-  "license": "ISC"
+  "main": "jquery.mdValidator.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MorenoDiDomenico/jquery.mdValidator.git"
+  }
 }
